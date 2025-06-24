@@ -1,4 +1,6 @@
-![scenario](https://github.com/langwatch/scenario/raw/main/assets/scenario-wide.webp)
+<div align="center">
+  <img src="https://github.com/ChawlaAvi/scenario/blob/main/assets/scenario-header-graphic.gif" alt="ag-ui Logo" style="max-width: 15px; height: auto;" />
+</div>
 
 <p align="center">
     <a href="https://discord.gg/kT4PhDS2gH" target="_blank"><img src="https://img.shields.io/discord/1227886780536324106?logo=discord&labelColor=%20%235462eb&logoColor=%20%23f5f5f5&color=%20%235462eb" alt="chat on Discord"></a>
